@@ -1,0 +1,5 @@
+<map id="GetContactPoint" name="GetContactPoint">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLGear.html#ad983d4035efc81bf292e4269cd3601cc" title="The Force vector for this gear. " alt="" coords="174,5,365,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a05481f3155aa12f45a0a9678c451e777" title="Get the altitude above ground level. " alt="" coords="213,71,326,97"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a644044433997e3d56d5c1b10fcaf4f8b" title="Gets the initial altitude above ground level. " alt="" coords="414,63,597,105"/>
+</map>

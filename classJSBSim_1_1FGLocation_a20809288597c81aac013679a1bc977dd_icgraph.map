@@ -1,0 +1,5 @@
+<map id="SetLongitude" name="SetLongitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a1fabb78d427d8f826631eb863fccce28" title="Resets the IC data structure to new values. " alt="" coords="153,5,335,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="153,70,335,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a6fe6c08828d7c74e174ba1ad7f61101e" title="Sets the initial longitude. " alt="" coords="385,70,567,111"/>
+</map>

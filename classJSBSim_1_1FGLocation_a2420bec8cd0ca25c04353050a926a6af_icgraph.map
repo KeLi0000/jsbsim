@@ -1,0 +1,8 @@
+<map id="GetLongitude" name="GetLongitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a777b283e5014563b30f96b47a9e6220a" title="Sets the initial geodetic latitude. " alt="" coords="153,37,335,78"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#af59bf6497667ca7fc54c44663470c3d5" title="Gets the initial longitude. " alt="" coords="153,102,335,143"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGLocation.html#a615abebc7359f6a872d60c7680a8039c" title="Get the geodetic distance between the current location and a given location. " alt="" coords="189,168,299,195"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGLocation.html#a077d7597ec2d610bd6370db8c8a44232" title="Get the heading that should be followed from the current location to a given location along the short..." alt="" coords="191,219,297,245"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="385,5,567,46"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#aba2e10b224998e7ecd7edffdc6869c39" title="Sets the initial geodetic latitude. " alt="" coords="385,70,567,111"/>
+</map>

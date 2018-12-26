@@ -1,0 +1,4 @@
+<map id="GetMachIC" name="GetMachIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#a19ebb4cbb08e4d1bde3a408bcc2f1795" title="Get the altitude above sea level. " alt="" coords="155,5,301,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAtmosphere.html#ab4bef1b1a9226219f8539341f111d453" title="Returns the speed of sound in ft/sec. " alt="" coords="145,70,311,111"/>
+</map>

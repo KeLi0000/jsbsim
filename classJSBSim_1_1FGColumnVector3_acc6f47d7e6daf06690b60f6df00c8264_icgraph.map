@@ -1,0 +1,5 @@
+<map id="Normalize" name="Normalize">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGDefaultGroundCallback.html#ab2595c980e5bde505594fb59d54f604e" title="Compute the altitude above ground. " alt="" coords="137,5,367,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a4e35ac529197f0bbcd476f52eae08a40" title="Sets the initial sideslip angle. " alt="" coords="161,70,343,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#abffe2ecc4a7f992d6e4a8569e374eb5e" title="Sets angle of sideslip initial condition in degrees. " alt="" coords="417,70,599,111"/>
+</map>

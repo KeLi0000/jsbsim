@@ -1,0 +1,6 @@
+<map id="SetClimbRateFpsIC" name="SetClimbRateFpsIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a3f18678496bb8d851fcb164dbb9b74fc" title="Sets the climb rate initial condition in feet/minute. " alt="" coords="209,5,353,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a68c83023466c7734fea2917175d9325d" title="Sets the flight path angle initial condition in degrees. " alt="" coords="195,56,367,83"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a4432f5e65443121378434889b2580f07" title="Sets the initial flight path angle. " alt="" coords="195,107,367,133"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#a1fabb78d427d8f826631eb863fccce28" title="Resets the IC data structure to new values. " alt="" coords="417,107,487,133"/>
+</map>

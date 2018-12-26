@@ -1,0 +1,4 @@
+<map id="GetCosLatitude" name="GetCosLatitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#a615abebc7359f6a872d60c7680a8039c" title="Get the geodetic distance between the current location and a given location. " alt="" coords="169,5,279,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a077d7597ec2d610bd6370db8c8a44232" title="Get the heading that should be followed from the current location to a given location along the short..." alt="" coords="171,56,277,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="FGTurbine" name="FGTurbine">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGEngine.html" title="Base class for all engines. " alt="" coords="253,187,332,213"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGModelFunctions.html" title="The model functions class provides the capability for loading, storing, and executing arbitrary funct..." alt="" coords="5,96,136,123"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGThruster.html" title="Base class for specific thrusting devices such as propellers, nozzles, etc. " alt="" coords="249,96,337,123"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="195,5,249,32"/>
+<area shape="rect" id="node7" href="$structJSBSim_1_1FGEngine_1_1Inputs.html" title="Inputs" alt="" coords="487,96,544,123"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="GetDensity" name="GetDensity">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGAtmosphere.html#a4c497d810b0509f4743ec5acf449864c" title="Calculate the atmosphere for the given altitude. " alt="" coords="195,35,272,61"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#a13d4b8fd402f41dcf6eef8ed0c11f435" title="Set equivalent airspeed initial condition in knots. " alt="" coords="142,86,325,127"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="142,151,325,193"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInitialCondition.html#a38a4c348cd4c6d646909fb2882abe9d6" title="Gets the initial equivalent airspeed. " alt="" coords="142,217,325,258"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGOutputSocket.html#ad752fb6fee3d03568bb8717d046286bd" title="Generates the output. " alt="" coords="145,282,321,323"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAtmosphere.html#a35ac9aa2a24b4c76037dcc874cdfdcdd" title="Runs the atmosphere forces model; called by the Executive. " alt="" coords="459,5,506,32"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGStandardAtmosphere.html#a4c497d810b0509f4743ec5acf449864c" title="Calculate the atmosphere for the given altitude. " alt="" coords="373,57,592,98"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="391,151,574,193"/>
+</map>

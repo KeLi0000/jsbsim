@@ -1,0 +1,4 @@
+<map id="SetAltitudeAGL" name="SetAltitudeAGL">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a1fabb78d427d8f826631eb863fccce28" title="Resets the IC data structure to new values. " alt="" coords="166,5,349,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGPropagate.html#a9729191af164b5db0c9f72cd182939d2" title="Initializes the FGPropagate class after instantiation and prior to first execution. " alt="" coords="180,70,335,111"/>
+</map>

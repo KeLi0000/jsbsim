@@ -1,0 +1,5 @@
+<map id="GetRadius" name="GetRadius">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGDefaultGroundCallback.html#ae1898afa27d4bc1a6f6c996a3d77912a" title="Compute the altitude above sealevel. " alt="" coords="139,5,370,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGDefaultGroundCallback.html#ab2595c980e5bde505594fb59d54f604e" title="Compute the altitude above ground. " alt="" coords="139,70,370,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLocation.html#a615abebc7359f6a872d60c7680a8039c" title="Get the geodetic distance between the current location and a given location. " alt="" coords="199,136,310,163"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GetAltitudeASLmeters" name="GetAltitudeASLmeters">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGPropagate.html#a19ebb4cbb08e4d1bde3a408bcc2f1795" title="Returns the current altitude above sea level. " alt="" coords="205,12,317,39"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a19ebb4cbb08e4d1bde3a408bcc2f1795" title="Get the altitude above sea level. " alt="" coords="366,5,511,46"/>
+</map>

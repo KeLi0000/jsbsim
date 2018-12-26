@@ -1,0 +1,8 @@
+<map id="FindElementTripletConvertTo" name="FindElementTripletConvertTo">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGAircraft.html#a09460dfe59ea9b008adf448292d26bbf" title="Loads the aircraft. " alt="" coords="272,5,411,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGGasCell.html#a1cf9a5c35024d2b623634085b0f380fc" title="Constructor. " alt="" coords="266,70,417,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLGear.html#a27044d02e736b462e84b6c61d1200f41" title="Constructor. " alt="" coords="245,136,437,163"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGRotor.html#a4bc3dbf658386662ee7dc09a2a70383c" title="Constructor for FGRotor. " alt="" coords="248,187,435,213"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGTank.html#a3f836b4283222c9b9a1e556ab2205f5a" title="Constructor. " alt="" coords="251,237,431,264"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGThruster.html#a18899cd20a4e7ceec9427ea4b4bdff4a" title="Constructor. " alt="" coords="269,289,413,330"/>
+</map>

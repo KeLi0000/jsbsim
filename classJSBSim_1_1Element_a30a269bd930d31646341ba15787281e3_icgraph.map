@@ -1,0 +1,11 @@
+<map id="GetAttributeValueAsNumber" name="GetAttributeValueAsNumber">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGFCS.html#a09460dfe59ea9b008adf448292d26bbf" title="Loads the Flight Control System. " alt="" coords="254,5,413,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#af4c905db84f046ff017aaa3cb86a3541" title="Loads the initial conditions. " alt="" coords="475,41,658,82"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGScript.html#affd5971385d780aef57a6f7a9645f9f7" title="Loads a script to drive JSBSim (usually in standalone mode). " alt="" coords="707,107,907,133"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGOutputType.html#a09460dfe59ea9b008adf448292d26bbf" title="Init the output directives from an XML file (implement the FGModel interface). " alt="" coords="251,158,415,199"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGPropeller.html#af055485a3f74654dae147e839447e9ad" title="Constructor for FGPropeller. " alt="" coords="260,223,407,265"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGTable.html#a6408aca30b15b5fbee7544f0e322263b" title="The constructor for a table. " alt="" coords="240,289,427,316"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGOutput.html#aac25385536a14c4bf0ae6aafa785e218" title="Load the output directives and adds a new output instance to the Output Manager list. " alt="" coords="481,157,652,184"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGOutputFile.html#a09460dfe59ea9b008adf448292d26bbf" title="Init the output directives from an XML file. " alt="" coords="489,209,645,250"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGOutputSocket.html#a09460dfe59ea9b008adf448292d26bbf" title="Init the output directives from an XML file. " alt="" coords="479,274,655,315"/>
+</map>

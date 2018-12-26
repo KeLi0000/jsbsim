@@ -1,0 +1,6 @@
+<map id="SetTemperatureBias" name="SetTemperatureBias">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGStandardAtmosphere.html#af0d6708b2772ef2460c715d9157be869" title="Calculate (or recalculate) the atmospheric pressure breakpoints at the altitudes in the standard temp..." alt="" coords="195,5,394,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAtmosphere.html#a2739860a840fcea921d3b37e1958bac0" title="Returns the actual, modeled temperature at the current altitude in degrees Rankine. " alt="" coords="211,57,378,98"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGStandardAtmosphere.html#ae1554711a7dac71879e2ebc4535411c1" title="Calculate the SL density and sound speed. " alt="" coords="199,122,390,163"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGStandardAtmosphere.html#a90c1d8ac6403484f48a69feb4d0148e2" title="Calculate the SL density. " alt="" coords="443,129,581,156"/>
+</map>

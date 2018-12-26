@@ -1,0 +1,6 @@
+<map id="Load" name="Load">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGOutput.html#a8204557b6f2865b7e6e29b3a3a9d524d" title="Adds a new output instance to the Output Manager. " alt="" coords="143,16,265,43"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGScript.html#affd5971385d780aef57a6f7a9645f9f7" title="Loads a script to drive JSBSim (usually in standalone mode). " alt="" coords="104,71,304,97"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGFDMExec.html#ace8c61eefd23c420b2dd573b183baac6" title="Sets the output (logging) mechanism for this run. " alt="" coords="352,5,515,46"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGFDMExec.html#a3a5c816fd2db9ddca6c3f209f2b456d0" title="Loads a script. " alt="" coords="352,70,515,111"/>
+</map>

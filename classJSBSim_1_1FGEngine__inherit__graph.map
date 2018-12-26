@@ -1,0 +1,9 @@
+<map id="FGEngine" name="FGEngine">
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGElectric.html" title="Models an electric motor. " alt="" coords="5,229,88,256"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGPiston.html" title="Models a Supercharged Piston engine. " alt="" coords="113,229,189,256"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGRocket.html" title="Models a generic rocket engine. " alt="" coords="215,229,296,256"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGTurbine.html" title="This class models a turbine engine. " alt="" coords="321,229,403,256"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGTurboProp.html" title="Turboprop engine model. " alt="" coords="427,229,527,256"/>
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGModelFunctions.html" title="The model functions class provides the capability for loading, storing, and executing arbitrary funct..." alt="" coords="190,80,321,107"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGJSBBase.html" title="JSBSim Base class. " alt="" coords="209,5,303,32"/>
+</map>

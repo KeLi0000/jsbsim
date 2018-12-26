@@ -1,0 +1,11 @@
+<map id="GetTerrainRadius" name="GetTerrainRadius">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a9b141f4fc94bac705b0b3accb6cb0fe3" title="Gets the initial terrain elevation. " alt="" coords="179,70,362,111"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="179,135,362,177"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGLocation.html#a59c7aae863131d3f63b23ad8b24d8858" title="Set the altitude above ground level. " alt="" coords="215,205,327,232"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGPropagate.html#a61eb764447723162a99933775f3921a4" title="Returns the &quot;constant&quot; LocalTerrainRadius. " alt="" coords="189,257,352,298"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a93ec4bc417c0505b4548f6a63af82bdf" title="Sets the initial terrain elevation. " alt="" coords="411,5,594,46"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#ab6f6dae970e40878a34789be7dfcb9a7" title="Sets the initial latitude. " alt="" coords="411,70,594,111"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="411,135,594,177"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInitialCondition.html#a1fabb78d427d8f826631eb863fccce28" title="Resets the IC data structure to new values. " alt="" coords="411,201,594,242"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGPropagate.html#a9729191af164b5db0c9f72cd182939d2" title="Initializes the FGPropagate class after instantiation and prior to first execution. " alt="" coords="425,266,580,307"/>
+</map>

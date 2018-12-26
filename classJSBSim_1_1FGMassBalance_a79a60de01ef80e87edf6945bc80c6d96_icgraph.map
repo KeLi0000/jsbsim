@@ -1,0 +1,5 @@
+<map id="GetPointmassInertia" name="GetPointmassInertia">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGGasCell.html#ab4f2abee6ace8ea44fa06a50f78b7540" title="Runs the gas cell model; called by BuoyantForces. " alt="" coords="195,5,346,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGBallonet.html#ab4f2abee6ace8ea44fa06a50f78b7540" title="Runs the ballonet model; called by FGGasCell. " alt="" coords="199,70,342,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGMassBalance.html#a35ac9aa2a24b4c76037dcc874cdfdcdd" title="Runs the Mass Balance model; called by the Executive Can pass in a value indicating if the executive ..." alt="" coords="247,136,294,163"/>
+</map>

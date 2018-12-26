@@ -1,0 +1,8 @@
+<map id="SetRadius" name="SetRadius">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#a551007a874d46fe1742b2cf37c3ed5d8" title="Set the altitude above sea level. " alt="" coords="137,77,247,104"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGLocation.html#a59c7aae863131d3f63b23ad8b24d8858" title="Set the altitude above ground level. " alt="" coords="136,143,248,169"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="297,5,479,46"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="297,70,479,111"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a1fabb78d427d8f826631eb863fccce28" title="Resets the IC data structure to new values. " alt="" coords="297,135,479,177"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGPropagate.html#a9729191af164b5db0c9f72cd182939d2" title="Initializes the FGPropagate class after instantiation and prior to first execution. " alt="" coords="311,201,465,242"/>
+</map>

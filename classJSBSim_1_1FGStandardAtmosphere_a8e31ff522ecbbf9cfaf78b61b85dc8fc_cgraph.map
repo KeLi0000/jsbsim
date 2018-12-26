@@ -1,0 +1,8 @@
+<map id="SetTemperatureGradedDelta" name="SetTemperatureGradedDelta">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGStandardAtmosphere.html#abf48220ca0c338db70ce75caaf591a91" title="Convert a geometric altitude to a geopotential altitude. " alt="" coords="273,5,412,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGStandardAtmosphere.html#a319f3b800cb9b494befa279bb0a6f62f" title="Recalculate the lapse rate vectors when the temperature profile is altered in a way that would change..." alt="" coords="269,56,416,83"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGStandardAtmosphere.html#af0d6708b2772ef2460c715d9157be869" title="Calculate (or recalculate) the atmospheric pressure breakpoints at the altitudes in the standard temp..." alt="" coords="243,107,442,133"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGAtmosphere.html#a2739860a840fcea921d3b37e1958bac0" title="Returns the actual, modeled temperature at the current altitude in degrees Rankine. " alt="" coords="259,158,426,199"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGStandardAtmosphere.html#ae1554711a7dac71879e2ebc4535411c1" title="Calculate the SL density and sound speed. " alt="" coords="247,223,438,265"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGStandardAtmosphere.html#a90c1d8ac6403484f48a69feb4d0148e2" title="Calculate the SL density. " alt="" coords="491,231,629,257"/>
+</map>

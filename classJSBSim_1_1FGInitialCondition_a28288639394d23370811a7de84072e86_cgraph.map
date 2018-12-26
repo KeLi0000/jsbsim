@@ -1,0 +1,6 @@
+<map id="GetVcalibratedKtsIC" name="GetVcalibratedKtsIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#a19ebb4cbb08e4d1bde3a408bcc2f1795" title="Get the altitude above sea level. " alt="" coords="209,5,354,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAtmosphere.html#aa5dcca5a24bfb2c69dde5e88942b58dd" title="Returns the pressure in psf. " alt="" coords="198,70,365,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGAtmosphere.html#ab4bef1b1a9226219f8539341f111d453" title="Returns the speed of sound in ft/sec. " alt="" coords="198,135,365,177"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGJSBBase.html#a47ce4c428bfaf43335c8967eb18ace51" title="Calculate the calibrated airspeed from the Mach number. " alt="" coords="202,201,361,242"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="FGFCSComponent" name="FGFCSComponent">
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGActuator.html" title="Encapsulates an Actuator component for the flight control system. " alt="" coords="347,5,437,32"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGAngles.html" title="Provides a way to determine the smallest included angle. " alt="" coords="352,56,432,83"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGDeadBand.html" title="Models a deadband object. " alt="" coords="341,107,443,133"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGDistributor.html" title="Encapsulates a distributor for the flight control system. " alt="" coords="342,157,442,184"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGFCSFunction.html" title="Models a FCSFunction object. " alt="" coords="333,208,451,235"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGFilter.html" title="Encapsulates a filter for the flight control system. " alt="" coords="357,259,427,285"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGGain.html" title="Encapsulates a gain component for the flight control system. " alt="" coords="359,309,425,336"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGKinemat.html" title="Encapsulates a kinematic (mechanical) component for the flight control system. " alt="" coords="348,360,436,387"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGPID.html" title="Encapsulates a PID control component for the flight control system. " alt="" coords="361,411,423,437"/>
+<area shape="rect" id="node12" href="$classJSBSim_1_1FGSensor.html" title="Encapsulates a Sensor component for the flight control system. " alt="" coords="351,461,433,488"/>
+<area shape="rect" id="node16" href="$classJSBSim_1_1FGSummer.html" title="Models a flight control system summing component. " alt="" coords="347,512,437,539"/>
+<area shape="rect" id="node17" href="$classJSBSim_1_1FGSwitch.html" title="Encapsulates a switch for the flight control system. " alt="" coords="352,563,432,589"/>
+<area shape="rect" id="node18" href="$classJSBSim_1_1FGWaypoint.html" title="Models a Waypoint object. " alt="" coords="345,613,439,640"/>
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGJSBBase.html" title="JSBSim Base class. " alt="" coords="6,309,101,336"/>
+<area shape="rect" id="node13" href="$classJSBSim_1_1FGAccelerometer.html" title="Encapsulates a Accelerometer component for the flight control system. " alt="" coords="499,411,623,437"/>
+<area shape="rect" id="node14" href="$classJSBSim_1_1FGGyro.html" title="Encapsulates a Gyro component for the flight control system. " alt="" coords="527,461,595,488"/>
+<area shape="rect" id="node15" href="$classJSBSim_1_1FGMagnetometer.html" title="Encapsulates a magnetometer component for the flight control system. " alt="" coords="500,512,623,539"/>
+</map>

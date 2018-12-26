@@ -1,0 +1,4 @@
+<map id="GetAircraftName" name="GetAircraftName">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGFDMExec.html#a85fe12dd2b7a50d5b630aa2346b4cc67" title="Returns a vector of strings representing the names of all loaded models (future) " alt="" coords="176,5,339,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInputSocket.html#a2d14f371e77186480b0b9bf32303b814" title="Generates the input. " alt="" coords="174,70,341,111"/>
+</map>

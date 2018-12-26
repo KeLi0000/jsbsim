@@ -1,0 +1,4 @@
+<map id="GetTerrainElevationFtIC" name="GetTerrainElevationFtIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#ad58b0dd5daece07ab1eb41b9b1268360" title="Get the local terrain radius. " alt="" coords="217,5,362,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#abcf6f87deb0024b8b0c62d4608150d69" title="Get the local sea level radius. " alt="" coords="216,70,363,111"/>
+</map>

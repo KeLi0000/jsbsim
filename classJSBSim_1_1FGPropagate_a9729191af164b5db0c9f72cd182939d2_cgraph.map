@@ -1,0 +1,6 @@
+<map id="InitModel" name="InitModel">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#a0697137d8c02a8b84f695d12317347a6" title="Sets the semimajor and semiminor axis lengths for this planet. " alt="" coords="129,5,274,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a59c7aae863131d3f63b23ad8b24d8858" title="Set the altitude above ground level. " alt="" coords="129,70,274,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLocation.html#ad1b855893aaa82233cdd6e509c1ee23a" title="Set the distance from the center of the earth. " alt="" coords="323,37,469,78"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGLocation.html#ad58b0dd5daece07ab1eb41b9b1268360" title="Get the local terrain radius. " alt="" coords="323,102,469,143"/>
+</map>

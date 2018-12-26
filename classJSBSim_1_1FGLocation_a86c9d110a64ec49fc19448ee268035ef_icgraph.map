@@ -1,0 +1,5 @@
+<map id="GetLongitudeDeg" name="GetLongitudeDeg">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#aa0c548a6f05ffe886f3bef2aad899c28" title="Gets the initial longitude. " alt="" coords="177,5,359,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1MSIS.html#a35ac9aa2a24b4c76037dcc874cdfdcdd" title="Runs the MSIS&#45;00 atmosphere model; called by the Executive Can pass in a value indicating if the exec..." alt="" coords="197,71,339,97"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGOutputSocket.html#ad752fb6fee3d03568bb8717d046286bd" title="Generates the output. " alt="" coords="180,122,356,163"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GetThetaRadIC" name="GetThetaRadIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGTrim.html#a6a5e26b6c78ad99b63d075c6acc70679" title="Execute the trim. " alt="" coords="168,12,341,39"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGTrimAxis.html#ad2aa672957b8b63104434e1adcce0951" title="Constructor for Trim Axis class. " alt="" coords="181,63,329,105"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGFDMExec.html#a8ae88a0b73749057a42c729d2330f5ee" title="Executes trimming in the selected mode. " alt="" coords="389,5,552,46"/>
+</map>

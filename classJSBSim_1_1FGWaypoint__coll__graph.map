@@ -1,0 +1,7 @@
+<map id="FGWaypoint" name="FGWaypoint">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGFCSComponent.html" title="Base class for JSBSim Flight Control System Components. " alt="" coords="555,188,690,215"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGJSBBase.html" title="JSBSim Base class. " alt="" coords="270,71,365,97"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="6,37,61,64"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGPropertyManager.html" title="FGPropertyManager" alt="" coords="248,188,387,215"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGFCS.html" title="Encapsulates the Flight Control System (FCS) functionality. " alt="" coords="284,239,351,265"/>
+</map>

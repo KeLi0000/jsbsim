@@ -1,0 +1,8 @@
+<map id="SetVtrueFpsIC" name="SetVtrueFpsIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a13d4b8fd402f41dcf6eef8ed0c11f435" title="Set equivalent airspeed initial condition in knots. " alt="" coords="163,5,307,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a4b214047e1c25d93b9d706621f32f6ce" title="Set mach initial condition. " alt="" coords="191,56,279,83"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#abaa026e39ca6d9c383ccffa8f9bbd936" title="Set calibrated airspeed initial condition in knots. " alt="" coords="164,107,305,133"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="166,157,303,184"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGInitialCondition.html#a4ccfd2afe9f63466cf32f2ffe96fbfc0" title="Set true airspeed initial condition in knots. " alt="" coords="181,208,288,235"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="355,157,493,184"/>
+</map>

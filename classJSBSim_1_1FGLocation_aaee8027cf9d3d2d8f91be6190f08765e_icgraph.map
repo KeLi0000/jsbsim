@@ -1,0 +1,5 @@
+<map id="GetGeodLatitudeRad" name="GetGeodLatitudeRad">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="198,5,381,46"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a98f3a181161cfc19bb2da8be33021885" title="Gets the initial geodetic latitude. " alt="" coords="198,70,381,111"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="430,5,613,46"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SetPositionGeodetic" name="SetPositionGeodetic">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a777b283e5014563b30f96b47a9e6220a" title="Sets the initial geodetic latitude. " alt="" coords="195,38,378,79"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="427,5,610,46"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#aba2e10b224998e7ecd7edffdc6869c39" title="Sets the initial geodetic latitude. " alt="" coords="427,70,610,111"/>
+</map>

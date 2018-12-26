@@ -1,0 +1,4 @@
+<map id="ResetSLPressure" name="ResetSLPressure">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGStandardAtmosphere.html#a90c1d8ac6403484f48a69feb4d0148e2" title="Calculate the SL density. " alt="" coords="209,5,348,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGStandardAtmosphere.html#af0d6708b2772ef2460c715d9157be869" title="Calculate (or recalculate) the atmospheric pressure breakpoints at the altitudes in the standard temp..." alt="" coords="179,56,378,83"/>
+</map>

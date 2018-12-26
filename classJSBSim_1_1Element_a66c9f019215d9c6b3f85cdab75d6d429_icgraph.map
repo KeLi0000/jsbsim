@@ -1,0 +1,16 @@
+<map id="GetDataLine" name="GetDataLine">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGActuator.html#a0962ac7e146feeb5eaad86e2c48a509f" title="Constructor. " alt="" coords="174,5,319,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGDistributor.html#a74684516aa9fa3392cd32b268003fd6d" title="Constructor. " alt="" coords="169,70,325,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGFCSComponent.html#ad402808175fe500162a7e3bcd23aed5a" title="Constructor. " alt="" coords="151,135,342,177"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGOutputType.html#a09460dfe59ea9b008adf448292d26bbf" title="Init the output directives from an XML file (implement the FGModel interface). " alt="" coords="406,286,570,327"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGScript.html#affd5971385d780aef57a6f7a9645f9f7" title="Loads a script to drive JSBSim (usually in standalone mode). " alt="" coords="856,319,1056,345"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGTable.html#a6408aca30b15b5fbee7544f0e322263b" title="The constructor for a table. " alt="" coords="153,303,340,329"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGUDPInputSocket.html#a09460dfe59ea9b008adf448292d26bbf" title="Reads the property names from an XML file. " alt="" coords="149,354,344,395"/>
+<area shape="rect" id="node12" href="$classJSBSim_1_1Element.html#aa9c4e9e17572561475562e52683bd726" title="Searches for the named element and returns the string data belonging to it. " alt="" coords="183,420,311,447"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGOutput.html#aac25385536a14c4bf0ae6aafa785e218" title="Load the output directives and adds a new output instance to the Output Manager list. " alt="" coords="635,319,805,345"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGOutputFile.html#a09460dfe59ea9b008adf448292d26bbf" title="Init the output directives from an XML file. " alt="" coords="642,370,798,411"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGOutputSocket.html#a09460dfe59ea9b008adf448292d26bbf" title="Init the output directives from an XML file. " alt="" coords="632,253,808,294"/>
+<area shape="rect" id="node13" href="$classJSBSim_1_1FGLGear.html#a27044d02e736b462e84b6c61d1200f41" title="Constructor. " alt="" coords="392,504,584,531"/>
+<area shape="rect" id="node14" href="$classJSBSim_1_1FGRotor.html#a4bc3dbf658386662ee7dc09a2a70383c" title="Constructor for FGRotor. " alt="" coords="395,352,581,379"/>
+<area shape="rect" id="node15" href="$classJSBSim_1_1FGTank.html#a3f836b4283222c9b9a1e556ab2205f5a" title="Constructor. " alt="" coords="398,403,578,429"/>
+</map>

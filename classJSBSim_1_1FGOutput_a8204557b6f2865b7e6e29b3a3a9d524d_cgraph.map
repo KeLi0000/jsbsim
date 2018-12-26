@@ -1,0 +1,9 @@
+<map id="SetDirectivesFile" name="SetDirectivesFile">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGOutput.html#aac25385536a14c4bf0ae6aafa785e218" title="Load the output directives and adds a new output instance to the Output Manager list. " alt="" coords="176,130,227,157"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGModel.html#ad3575f4ce99fe9f10786880216c7d813" title="Loads this model. " alt="" coords="275,42,442,69"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1Element.html#a0290668d182e1035b626b551f2b552e7" title="Searches for a specified element. " alt="" coords="491,42,698,69"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1Element.html#ac49b58ae4fd6170ac11c2ed21d882666" title="Searches for the next element as specified. " alt="" coords="501,94,688,135"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1Element.html#a4fd4cb4d88046523b2cf729bf847e0e2" title="Retrieves an attribute. " alt="" coords="493,180,697,222"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGOutputType.html#a6f1370cfe2ed983e54af0720b6c0b3d5" title="Set the idx for this output instance. " alt="" coords="277,262,441,303"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGOutputType.html#a09460dfe59ea9b008adf448292d26bbf" title="Init the output directives from an XML file (implement the FGModel interface). " alt="" coords="277,94,441,135"/>
+</map>

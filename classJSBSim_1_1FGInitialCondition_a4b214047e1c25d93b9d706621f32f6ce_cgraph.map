@@ -1,0 +1,6 @@
+<map id="SetMachIC" name="SetMachIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#a19ebb4cbb08e4d1bde3a408bcc2f1795" title="Get the altitude above sea level. " alt="" coords="153,5,298,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAtmosphere.html#ab4bef1b1a9226219f8539341f111d453" title="Returns the speed of sound in ft/sec. " alt="" coords="142,70,309,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#aa27763a4d398c95e7b346b824153d11e" title="Sets the initial true airspeed. " alt="" coords="171,136,280,163"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGQuaternion.html#ac417c35599d799ff7c42ff3ce513d4c0" title="Backward transformation matrix. " alt="" coords="358,129,517,170"/>
+</map>

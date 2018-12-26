@@ -1,0 +1,9 @@
+<map id="FGQuaternion" name="FGQuaternion">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGQuaternion.html#ae5bc09242f703200918ea73ba0124d15" title="Quaternion derivative for given angular rates. " alt="" coords="161,5,236,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGQuaternion.html#a683c39c07cc5e10a0f0265fa2da13a1f" title="Arithmetic operator &quot;+&quot;. " alt="" coords="160,56,237,83"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGQuaternion.html#af44ff826f63de87b57d517e8e2862513" title="Arithmetic operator &quot;&#45;&quot;. " alt="" coords="162,107,235,133"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGQuaternion.html#a9569b7aff1e970229e8b12077c890ab0" title="Arithmetic operator &quot;*&quot;. " alt="" coords="161,157,236,184"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGQuaternion.html#a93ded52984e3ed4d3e657f5a932c5d05" title="Inverse of the quaternion. " alt="" coords="166,208,231,235"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGQuaternion.html#a877300bcc254103202267d63cd5da7ef" title="Conjugate of the quaternion. " alt="" coords="158,259,239,285"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGQuaternion.html#a93dd7c7a5344ae8ad450d760f57cb74f" title="Zero quaternion vector. " alt="" coords="175,309,222,336"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SetBetaDegIC" name="SetBetaDegIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a4e35ac529197f0bbcd476f52eae08a40" title="Sets the initial sideslip angle. " alt="" coords="160,176,267,203"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGQuaternion.html#ac417c35599d799ff7c42ff3ce513d4c0" title="Backward transformation matrix. " alt="" coords="329,5,487,46"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGQuaternion.html#adf79ff2ea1194b5f50fe281d04db8630" title="Retrieves the Euler angles. " alt="" coords="329,70,487,111"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGQuaternion.html#abb331df77513db8f9d44cb5bbea92b1a" title="Retrieves cosine of the given euler angle. " alt="" coords="329,135,487,177"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGQuaternion.html#ab04da5540f142a9e0fc92b9aa56a17a5" title="Retrieves sine of the given euler angle. " alt="" coords="329,201,487,242"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGMatrix33.html#aad49f19d4d1877d4d9b329d05849229f" title="Transposed matrix. " alt="" coords="335,266,481,307"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGColumnVector3.html#acc6f47d7e6daf06690b60f6df00c8264" title="Normalize. " alt="" coords="315,331,501,373"/>
+</map>

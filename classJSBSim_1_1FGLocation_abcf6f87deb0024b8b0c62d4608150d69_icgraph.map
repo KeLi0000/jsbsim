@@ -1,0 +1,9 @@
+<map id="GetSeaLevelRadius" name="GetSeaLevelRadius">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a93ec4bc417c0505b4548f6a63af82bdf" title="Sets the initial terrain elevation. " alt="" coords="889,27,1071,69"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a9b141f4fc94bac705b0b3accb6cb0fe3" title="Gets the initial terrain elevation. " alt="" coords="193,53,375,94"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="657,125,839,166"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGLocation.html#a551007a874d46fe1742b2cf37c3ed5d8" title="Set the altitude above sea level. " alt="" coords="229,177,339,204"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#ab6f6dae970e40878a34789be7dfcb9a7" title="Sets the initial latitude. " alt="" coords="889,125,1071,166"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="889,203,1071,245"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="425,170,607,211"/>
+</map>

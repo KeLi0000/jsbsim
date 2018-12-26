@@ -1,0 +1,10 @@
+<map id="Initialize" name="Initialize">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGWinds.html#a9992c316eabb367ea732ac61acde77be" title="Sets the wind components in NED frame. " alt="" coords="126,5,346,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#af9ffe1a00b0aaf79291029b11e359036" title="Gets the initial wind velocity in the NED local frame. " alt="" coords="145,57,327,98"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGFDMExec.html#aa83769769c700eba0b0b82a5c62dbc71" title="This function executes each scheduled model in succession. " alt="" coords="213,148,259,175"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGQuaternion.html#ac417c35599d799ff7c42ff3ce513d4c0" title="Backward transformation matrix. " alt="" coords="414,31,573,73"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGFDMExec.html#a9238b5d4e99187a0ba3db7334d459caa" title="Increments the simulation time if not in Holding mode. " alt="" coords="457,97,530,124"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGFDMExec.html#a4823139ac9b44ece36d93b7cee39f248" title="Returns the simulation suspension state. " alt="" coords="641,123,789,149"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGScript.html#a013aec27fe80cda32db192d2ebb96e59" title="This function is called each pass through the executive Run() method IF scripting is enabled..." alt="" coords="395,199,591,225"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGFDMExec.html#acdaa615364934636260de75dd19c6ca5" title="Resets the initial conditions object and prepares the simulation to run again. " alt="" coords="411,249,576,276"/>
+</map>

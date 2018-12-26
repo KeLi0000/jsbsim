@@ -1,0 +1,11 @@
+<map id="AddChildElement" name="AddChildElement">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGModel.html#ad3575f4ce99fe9f10786880216c7d813" title="Loads this model. " alt="" coords="177,237,343,264"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAerodynamics.html#a5ee98f43a4000cfa1190bdcfe1ff70c4" title="Loads the Aerodynamics model. " alt="" coords="404,5,583,46"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGAircraft.html#a09460dfe59ea9b008adf448292d26bbf" title="Loads the aircraft. " alt="" coords="424,70,563,111"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGBuoyantForces.html#a5ee98f43a4000cfa1190bdcfe1ff70c4" title="Loads the Buoyant forces model. " alt="" coords="401,135,585,177"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGExternalReactions.html#a09460dfe59ea9b008adf448292d26bbf" title="Loads the external forces from the XML configuration file. " alt="" coords="392,201,595,242"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGFCS.html#a09460dfe59ea9b008adf448292d26bbf" title="Loads the Flight Control System. " alt="" coords="414,267,573,293"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInputType.html#a09460dfe59ea9b008adf448292d26bbf" title="Init the input directives from an XML file (implement the FGModel interface). " alt="" coords="416,318,571,359"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGOutput.html#aac25385536a14c4bf0ae6aafa785e218" title="Load the output directives and adds a new output instance to the Output Manager list. " alt="" coords="408,384,579,411"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGPropulsion.html#a09460dfe59ea9b008adf448292d26bbf" title="Loads the propulsion system (engine[s] and tank[s]). " alt="" coords="415,435,572,477"/>
+</map>

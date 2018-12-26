@@ -1,0 +1,12 @@
+<map id="SetLongitudeRadIC" name="SetLongitudeRadIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a644044433997e3d56d5c1b10fcaf4f8b" title="Gets the initial altitude above ground level. " alt="" coords="193,16,332,43"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLocation.html#a20809288597c81aac013679a1bc977dd" title="Set the longitude. " alt="" coords="190,70,335,111"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="193,212,332,239"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGLocation.html#a19ebb4cbb08e4d1bde3a408bcc2f1795" title="Get the altitude above sea level. " alt="" coords="619,293,765,334"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGLocation.html#a551007a874d46fe1742b2cf37c3ed5d8" title="Set the altitude above sea level. " alt="" coords="619,121,765,162"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a05481f3155aa12f45a0a9678c451e777" title="Get the altitude above ground level. " alt="" coords="405,5,550,46"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGColumnVector3.html#a6e9ec6fa7764cdad294729403b238bdb" title="Length of the vector. " alt="" coords="384,70,571,111"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGLocation.html#ad58b0dd5daece07ab1eb41b9b1268360" title="Get the local terrain radius. " alt="" coords="405,289,550,330"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGLocation.html#abcf6f87deb0024b8b0c62d4608150d69" title="Get the local sea level radius. " alt="" coords="813,150,960,191"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="409,237,546,264"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GetClimbRateFpsIC" name="GetClimbRateFpsIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#abc45ce2f10a0d95a461a6d8500cc29f8" title="Gets the initial climb rate. " alt="" coords="209,5,354,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#ad362ae43cf83c628b38c57a5cbba8c8a" title="Gets the initial flight path angle. " alt="" coords="195,56,368,83"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a261b94252462d29dbea7881e0ad5a5a2" title="Gets the initial flight path angle. " alt="" coords="416,56,589,83"/>
+</map>

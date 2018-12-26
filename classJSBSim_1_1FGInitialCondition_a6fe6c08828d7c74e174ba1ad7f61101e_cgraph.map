@@ -1,0 +1,8 @@
+<map id="SetLongitudeDegIC" name="SetLongitudeDegIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="189,123,325,149"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a644044433997e3d56d5c1b10fcaf4f8b" title="Gets the initial altitude above ground level. " alt="" coords="377,5,516,32"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLocation.html#a20809288597c81aac013679a1bc977dd" title="Set the longitude. " alt="" coords="374,57,519,98"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="377,123,516,149"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGLocation.html#a19ebb4cbb08e4d1bde3a408bcc2f1795" title="Get the altitude above sea level. " alt="" coords="374,174,519,215"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGLocation.html#a551007a874d46fe1742b2cf37c3ed5d8" title="Set the altitude above sea level. " alt="" coords="374,239,519,281"/>
+</map>

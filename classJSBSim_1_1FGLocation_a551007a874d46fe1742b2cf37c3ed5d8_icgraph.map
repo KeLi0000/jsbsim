@@ -1,0 +1,5 @@
+<map id="SetAltitudeASL" name="SetAltitudeASL">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="166,5,349,46"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="630,34,813,75"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="398,5,581,46"/>
+</map>

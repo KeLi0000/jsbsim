@@ -1,0 +1,10 @@
+<map id="CalculatePressureBreakpoints" name="CalculatePressureBreakpoints">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGStandardAtmosphere.html#ab386ea1f5691a44b54cdb8588330fdfc" title="Sets the sea level pressure for modeling an off&#45;standard pressure profile. " alt="" coords="293,5,403,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGStandardAtmosphere.html#a99d8a1977d4edfc2f5c5871f43525ee3" title="Sets the temperature at the supplied altitude, if it is to be different than the standard temperature..." alt="" coords="291,56,405,83"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGStandardAtmosphere.html#ab2239a97c1d62b0a27b4c94cc7c03e76" title="Sets the temperature bias to be added to the standard temperature at all altitudes. " alt="" coords="277,107,419,133"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGStandardAtmosphere.html#a8e31ff522ecbbf9cfaf78b61b85dc8fc" title="Sets the temperature delta value at the supplied altitude/elevation above sea level, to be added to the standard temperature and ramped out by 86 km. " alt="" coords="254,157,442,184"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGStandardAtmosphere.html#aed830675db14a50dd538b130c193fb83" title="This function resets the model to apply no bias or delta gradient to the temperature. " alt="" coords="275,208,421,235"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGStandardAtmosphere.html#a9c26652a9d08c22d3b6378dd75a8a0cd" title="Resets the sea level to the Standard sea level pressure, and recalculates dependent parameters so tha..." alt="" coords="285,259,411,285"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGStandardAtmosphere.html#ac025fa6399d2cf0ac84617f65b120de6" title="Sets the Sea Level temperature, if it is to be different than the standard. " alt="" coords="528,56,659,83"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGStandardAtmosphere.html#ae1ec723136d5b58e3b3d4fcb966d0c12" title="Sets a Sea Level temperature delta that is ramped out by 86 km. " alt="" coords="491,157,695,184"/>
+</map>

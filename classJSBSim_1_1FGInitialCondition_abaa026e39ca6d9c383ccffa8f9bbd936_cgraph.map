@@ -1,0 +1,8 @@
+<map id="SetVcalibratedKtsIC" name="SetVcalibratedKtsIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#a19ebb4cbb08e4d1bde3a408bcc2f1795" title="Get the altitude above sea level. " alt="" coords="206,5,351,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGAtmosphere.html#aa5dcca5a24bfb2c69dde5e88942b58dd" title="Returns the pressure in psf. " alt="" coords="195,70,362,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGJSBBase.html#a45ed508b4577f72ab2324cc61c68427b" title="Calculate the Mach number from the calibrated airspeed.Based on the formulas in the US Air Force Airc..." alt="" coords="199,135,358,177"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGAtmosphere.html#ab4bef1b1a9226219f8539341f111d453" title="Returns the speed of sound in ft/sec. " alt="" coords="195,201,362,242"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#aa27763a4d398c95e7b346b824153d11e" title="Sets the initial true airspeed. " alt="" coords="224,267,333,293"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGQuaternion.html#ac417c35599d799ff7c42ff3ce513d4c0" title="Backward transformation matrix. " alt="" coords="411,259,570,301"/>
+</map>

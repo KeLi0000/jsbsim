@@ -1,0 +1,4 @@
+<map id="SetFlightPathAngleDegIC" name="SetFlightPathAngleDegIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#aa0085586d19a7796ec2ac667f8d89b14" title="Sets the initial climb rate. " alt="" coords="227,12,367,39"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGQuaternion.html#ac417c35599d799ff7c42ff3ce513d4c0" title="Backward transformation matrix. " alt="" coords="417,5,575,46"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="FGTrim" name="FGTrim">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGFDMExec.html#a44e88c8853babf4e306376c5d707d95e" title="Returns a pointer to the FGInitialCondition object. " alt="" coords="131,5,293,46"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#ae2b6568a2bdbaa0414cdaa5b36344d0d" title="Gets the target normal load factor set from IC. " alt="" coords="121,70,303,111"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGTrim.html#a620e970bb5917f073dae47e0d43f09b8" title="Clear all state&#45;control pairs and set a predefined trim mode. " alt="" coords="175,136,249,163"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGTrim.html#a311066bccbe388bae09055dadb0357f7" title="Clear all state&#45;control pairs from the current configuration. " alt="" coords="352,136,443,163"/>
+</map>
